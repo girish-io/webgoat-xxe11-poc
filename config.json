@@ -1,0 +1,6 @@
+{
+    "webgoat_username": "0xDEADBEEF",
+    "webgoat_password": "0xDEADBEEF",
+    "webgoat_host": "webgoat.ctf",
+    "secret_location": "C:\\Users\\deadbeef/.webgoat-2023.4//XXE/0xDEADBEEF/secret.txt"
+}
